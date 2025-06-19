@@ -8,11 +8,12 @@ Sebuah proyek latihan SQL sederhana menggunakan SQL Server Management Studio (SS
 
 ```
 BelajarSQL-Buku/
-├── 1_Create_table_buku.sql       # Struktur tabel
-├── 2_Insert_data_buku.sql         # Data dummy
-├── 3_Latihan_data_buku.sql       # Query latihan SELECT, WHERE, ORDER, COUNT, BETWEEN
-├── screenshot_1.png          # Tampilan SQL Server
-└── README.md                 # Dokumentasi ini
+- [1_Create_table_buku.sql](1_Create_table_buku.sql) – Struktur tabel
+- [2_Insert_data_buku.sql](2_Insert_data_buku.sql) – Data dummy
+- [3_Latihan_data_buku.sql](3_Latihan_data_buku.sql) – Latihan query SELECT, WHERE, dll
+- [screenshot_1.png](screenshot_1.png) – Tampilan SQL Server
+- [README.md](README.md) – Dokumentasi ini
+
 ```
 
 ---
