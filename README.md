@@ -9,8 +9,6 @@ Sebuah proyek latihan SQL sederhana menggunakan SQL Server Management Studio (SS
 - [1_Create_table_buku.sql](1_Create_table_buku.sql) – Struktur tabel
 - [2_Insert_data_buku.sql](2_Insert_data_buku.sql) – Data dummy
 - [3_Latihan_query.sql](3_Latihan_query.sql) – Latihan query dasar
-- [Screenshot (149).png](Screenshot%20(149).png) – Tampilan SSMS - Latihan query
-- [Screenshot (150).png](Screenshot%20(150).png) – Tampilan SSMS - Latihan query
 - [README.md](README.md) – Dokumentasi ini
 
 
@@ -39,10 +37,10 @@ Relasi:
 ---
 
 ## 🖼️ Screenshot
-
+- [Screenshot (149).png](Screenshot%20(149).png) – Tampilan SSMS - Latihan query
+- [Screenshot (150).png](Screenshot%20(150).png) – Tampilan SSMS - Latihan query
 ---
 
 ## ✨ Credit
 
-Made by: Mochamad Iqbal Kasuma
-Learning journey started: June 2025 🚀
+Made by: Mochamad Iqbal Kasuma 🚀
